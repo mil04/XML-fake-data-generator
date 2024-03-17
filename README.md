@@ -21,3 +21,7 @@ This application allows you to generate XML data by providing templates and spec
 
 - Expanded data files are stored in the project directory.
 - Default output filename is "ExpandedTemplate.xml."
+
+## Collaborators
+
+- **[Katsiaryna Bokhan](https://github.com/kateqwerty001)** 
