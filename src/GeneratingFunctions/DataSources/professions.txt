@@ -1,0 +1,100 @@
+Accountant
+Actor
+Architect
+Astronomer
+Baker
+Biologist
+Carpenter
+Chef
+Chemist
+Civil Engineer
+Clinical Psychologist
+Computer Programmer
+Data Scientist
+Dentist
+Detective
+Dietitian
+Electrician
+Environmental Scientist
+Fashion Designer
+Firefighter
+Flight Attendant
+Graphic Designer
+Historian
+Human Resources Manager
+Journalist
+Judge
+Librarian
+Marketing Manager
+Microbiologist
+Nurse
+Occupational Therapist
+Paleontologist
+Pharmacist
+Photographer
+Physician
+Physicist
+Police Officer
+Political Scientist
+Project Manager
+Real Estate Agent
+Research Scientist
+Social Worker
+Software Engineer
+Speech Therapist
+Statistician
+Surgeon
+Teacher
+Technical Writer
+Translator
+Urban Planner
+Veterinarian
+Web Developer
+Zoologist
+Air Traffic Controller
+Archaeologist
+Astronaut
+Banker
+Cartographer
+Chemical Engineer
+Court Reporter
+Cryptographer
+Dental Hygienist
+Economist
+Electrical Engineer
+Emergency Medical Technician (EMT)
+Event Planner
+Financial Analyst
+Forensic Scientist
+Geologist
+Hair Stylist
+Industrial Designer
+Interior Designer
+IT Consultant
+Marine Biologist
+Meteorologist
+Nutritionist
+Paralegal
+Personal Trainer
+Pharmacist
+Pilot
+Political Campaign Manager
+Probation Officer
+Public Relations Specialist
+Radiologist
+Robotics Engineer
+Security Guard
+Social Media Manager
+Sports Coach
+Surveyor
+Technical Support Specialist
+Tour Guide
+Toxicologist
+Travel Agent
+Video Game Developer
+Wildlife Biologist
+Wind Turbine Technician
+X-ray Technician
+Yoga Instructor
+Youth Counselor
+Zookeeper

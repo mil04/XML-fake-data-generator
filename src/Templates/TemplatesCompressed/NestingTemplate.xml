@@ -1,0 +1,34 @@
+<Workers>
+    <Quantity>300</Quantity>
+    <Person>
+        <PersonalDataGenerator Action='NAME'/>
+        <PersonalDataGenerator Action='SURNAME'/>
+        <PersonalDataGenerator Action='PROFESSION'/>
+        <PersonalDataGenerator Action='LOCATION'/>
+    </Person>
+    <Workers>
+        <Quantity>100</Quantity>
+        <Person>
+            <PersonalDataGenerator Action='NAME'/>
+        </Person>
+        <Workers>
+            <Quantity>200</Quantity>
+            <Person>
+                <PersonalDataGenerator Action='FEMALE_NAME'/>
+                <PersonalDataGenerator Action='MALE_NAME'/>
+            </Person>
+            <Workers>
+                <Quantity>300</Quantity>
+                <Person>
+                    <PersonalDataGenerator Action='AGE'/>
+                </Person>
+                <Workers>
+                    <Quantity>100</Quantity>
+                    <Person>
+                        <PersonalDataGenerator Action='LOCATION'/>
+                    </Person>
+                </Workers>
+            </Workers>
+        </Workers>
+    </Workers>
+</Workers>

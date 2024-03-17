@@ -1,0 +1,100 @@
+Tokyo, Japan
+New York City, USA
+London, UK
+Beijing, China
+Sydney, Australia
+Cairo, Egypt
+Rio de Janeiro, Brazil
+Moscow, Russia
+Delhi, India
+Toronto, Canada
+Istanbul, Turkey
+Buenos Aires, Argentina
+Amsterdam, Netherlands
+Seoul, South Korea
+Mexico City, Mexico
+Berlin, Germany
+Jakarta, Indonesia
+Riyadh, Saudi Arabia
+Nairobi, Kenya
+Madrid, Spain
+Abu Dhabi, UAE
+Oslo, Norway
+Stockholm, Sweden
+Athens, Greece
+Helsinki, Finland
+Vienna, Austria
+Prague, Czech Republic
+Budapest, Hungary
+Copenhagen, Denmark
+Warsaw, Poland
+Paris, France
+Milan, Italy
+Lisbon, Portugal
+Brussels, Belgium
+Zurich, Switzerland
+Kuala Lumpur, Malaysia
+Singapore, Singapore
+Bangkok, Thailand
+Dublin, Ireland
+Canberra, Australia
+Brasília, Brazil
+Hanoi, Vietnam
+Riyadh, Saudi Arabia
+Doha, Qatar
+Buenos Aires, Argentina
+Karachi, Pakistan
+Cairo, Egypt
+Lagos, Nigeria
+Bogotá, Colombia
+Tehran, Iran
+Manila, Philippines
+Tel Aviv, Israel
+Helsinki, Finland
+Oslo, Norway
+Amsterdam, Netherlands
+Vienna, Austria
+Sofia, Bulgaria
+Bucharest, Romania
+Prague, Czech Republic
+Budapest, Hungary
+Warsaw, Poland
+Athens, Greece
+Reykjavik, Iceland
+Nairobi, Kenya
+Mexico City, Mexico
+Buenos Aires, Argentina
+Lima, Peru
+Caracas, Venezuela
+Panama City, Panama
+Ankara, Turkey
+Beirut, Lebanon
+Dhaka, Bangladesh
+Kathmandu, Nepal
+New Delhi, India
+Colombo, Sri Lanka
+Port Louis, Mauritius
+Windhoek, Namibia
+Canberra, Australia
+Ottawa, Canada
+Washington D.C., USA
+Pretoria, South Africa
+Berlin, Germany
+Bern, Switzerland
+Paris, France
+Rome, Italy
+Madrid, Spain
+Copenhagen, Denmark
+Dublin, Ireland
+Helsinki, Finland
+Oslo, Norway
+Stockholm, Sweden
+Prague, Czech Republic
+Vienna, Austria
+Budapest, Hungary
+Warsaw, Poland
+Athens, Greece
+Lisbon, Portugal
+Brussels, Belgium
+Amsterdam, Netherlands
+London, UK
